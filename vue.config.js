@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/blogr-page/',
+  publicPath: '/blogr/',
   css: {
     loaderOptions: {
       scss: {
